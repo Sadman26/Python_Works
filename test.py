@@ -1,12 +1,3 @@
-def loop(x):
-    for i in range(x):
-        print(i,end=' ')
-def sayhi():
-    print("Hello World")
-    loop(10)
-
-
-
-
-
-sayhi()
+array=[1,23,4,3]
+array.sort()
+print(array)
